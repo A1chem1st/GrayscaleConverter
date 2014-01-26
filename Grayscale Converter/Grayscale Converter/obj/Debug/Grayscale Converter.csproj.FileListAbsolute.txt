@@ -1,0 +1,6 @@
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\bin\Debug\Grayscale Converter.exe
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\bin\Debug\Grayscale Converter.pdb
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\obj\Debug\Grayscale Converter.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\obj\Debug\Grayscale Converter.exe
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\obj\Debug\Grayscale Converter.pdb
+c:\users\иван\documents\visual studio 2012\Projects\Grayscale Converter\Grayscale Converter\bin\Debug\Grayscale Converter.exe.config
